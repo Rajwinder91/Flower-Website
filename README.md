@@ -1,15 +1,8 @@
 # Flower Website 
-
-• Flower website is for managing the different kinds of flowers and display all the
+      Flower website is for managing the different kinds of flowers and display all the
 flowers at home and product page.
-
-• Designed the index page with slider, new arrivals flowers, and about information.
-
-• Designed Following Pages
-  - Home Page
-  - About Us
-  - Shop
-  - Gallery
-  - Contact Us
-  - Privacy Policy
-  - Terms & Conditions
+  <ul>
+  <li>Designed slider, new arrivals flowers, and about information on home page</li>
+  <li>Designed About Us,Shop, Gallery, Contact Us, Privacy Policy and Terms and conditions pages</li>
+  <li>Designed Header and Footer with search bar and menus</li>
+  </ul>
